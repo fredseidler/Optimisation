@@ -20,7 +20,7 @@ Subsystem 3: Lamp geometry and distribution
 * The genetic algorithm typically ran in 1.9s
 
 
-Location: Team members scripts for other subsystems can be found within this repository
+Location: fredseidler/Optimisation/
 
 Author: Freddie Seidler
 
