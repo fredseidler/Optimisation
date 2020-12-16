@@ -5,6 +5,7 @@ Subsystem 3: Lamp geometry and distribution
 ## Paramaters that need to be set:
 * x can be set as either x_ip or x_ga depending on which algorithm is being run.
 * This can be set on line 50 of the script.
+* x_ip has been set as the default so that when first running the script the results generated match those quoted in the report
 
 ## Note about the script:
 * All of the parameters have been determined following careful literature research. 
