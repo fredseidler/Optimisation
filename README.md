@@ -3,11 +3,12 @@
 
 This repositry contains all the scripts for the four members of this team. The system being considered is street lighting, with the four subsystems being optimised listed below. 
 
-Subsystem 1:
-Subsystem 2:
-Subsystem 3:
-Subsystem 4: Lamp geometry and distribution
+* Subsystem 1:
+* Subsystem 2:
+* Subsystem 3:
+* Subsystem 4: Lamp geometry and distribution
 
+# Reposiory structure
 
 This repository contains the report as well as the code needed obtain the results discussed within the report. The directory structure relevant for marking is:
 
