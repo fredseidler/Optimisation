@@ -1,26 +1,25 @@
 # DE 3 Optimisation
 
-Subsystem 3: Lamp geometry and distribution
 
-## Paramaters that need to be set:
-* x can be set as either x_ip or x_ga depending on which algorithm is being run.
-* This can be set on line 50 of the script.
+This repositry contains all the scripts for the four members of this team. The system being considered is street lighting, with the four subsystems being optimised listed below. 
 
-## Note about the script:
-* All of the parameters have been determined following careful literature research. 
-* Hammersmith and Fulham have been used as a good council to focus on due to their relevance to Imperial College students. 
-* Where there are variables/paramaters that are linked between subsystems, best-guess values have been used to allow optimisiaiton to continue. 
-
-**All researched values have been referenced at the end of the submitted report.**
-
-## Performance of the script
-
-* The script has been run on a 2.4 GHz 8-Core Intel Core i9 processor
-* The interior-point algorithm typically ran in 0.7s
-* The genetic algorithm typically ran in 1.9s
+Subsystem 1:
+Subsystem 2:
+Subsystem 3:
+Subsystem 4: Lamp geometry and distribution
 
 
-Location: Team members scripts for other subsystems can be found within this repository
+This repository contains the report as well as the code needed obtain the results discussed within the report. The directory structure relevant for marking is:
+
+FreddieSeidler: containts all the work relevant to Subsystem 3
+
+KabirKnupp: contains all the work relevant to Subsystem 1
+
+EmilyTang: contains all the work relevant to Subsystem 2
+
+IdanGalShot: contains all the work relevant to Subsystem 4
+
+All scripts have been written in MATLAB and use both the optimization and global optimization toolboxes. 
 
 Author: Freddie Seidler
 
