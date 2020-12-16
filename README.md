@@ -11,18 +11,17 @@ Subsystem 3: Lamp geometry and distribution
 * Hammersmith and Fulham have been used as a good council to focus on due to their relevance to Imperial College students. 
 * Where there are variables/paramaters that are linked between subsystems, best-guess values have been used to allow optimisiaiton to continue. 
 
-**All researched values have been referenced at the end of the submitted report**
+**All researched values have been referenced at the end of the submitted report.**
 
 ## Performance of the script
 
 * The script has been run on a 2.4 GHz 8-Core Intel Core i9 processor
-
 * The interior-point algorithm typically ran in 0.7s
 * The genetic algorithm typically ran in 1.9s
 
 
-Location: ...SozyScripts\\InvestigationTools\\BatchMonitoring\\StaleIsinChecker.soz
+Location: Team members scripts for other subsystems can be found within this repository
 
 Author: Freddie Seidler
 
-Date: August 2020
+Date: December 2020
